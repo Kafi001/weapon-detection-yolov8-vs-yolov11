@@ -1,0 +1,24 @@
+# Dataset (too large for GitHub)
+weapon-dataset/
+*.jpg
+*.jpeg
+*.png
+*.yaml
+
+# Model weights (large files)
+runs/
+*.pt
+*.onnx
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Kaggle
+/kaggle/
